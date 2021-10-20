@@ -1,7 +1,3 @@
 theme: jekyll-theme-cayman
 
 
-domain: tristen-e.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-#url: https://tristen-e.github.io # the base hostname and protocol for your site, e.g. http://example.com
-#baseurl: /BobcatPDF/     # place folder name if the site is served in a subfolder
-repository: "Tristen-e/BobcatPDF" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
