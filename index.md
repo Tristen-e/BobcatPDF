@@ -1,4 +1,6 @@
-
+---
+permalink: /BobcatPDF/
+---
 
 ## Welcome to GitHub Pages
 
