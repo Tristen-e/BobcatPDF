@@ -1,6 +1,4 @@
----
-permalink: /
----
+
 
 ## Welcome to GitHub Pages
 
